@@ -1,0 +1,79 @@
+
+
+NAME: Ahmed Sadauna Maiyaki
+MATRIX NO: 21/10MSS007
+COURSE:  SWE 305
+
+
+
+The MySQL data type for the following database tables that are listed below are expected to be VARCHAR or TEXT.
+
+admin
+
+users
+
+like
+
+visitors
+
+post
+
+comment
+
+newsletter
+
+breaking news
+
+categories
+
+
+
+
+| Table | Possible data types | |---|---|---|
+
+| admin | VARCHAR(255), TEXT |
+ 
+| id | INT |
+
+| email |  VARCHAR |
+
+| password | VARCHAR |
+
+| created at | VARCHAR , TEXT |
+
+| Updated at | VARCHAR , TEXT |
+
+| Deleted at | VARCHAR , TEXT |
+
+| Name | VARCHAR , TEXT |
+
+| Post_id | INT |
+
+| category_id | INT |
+
+| admin_id | INT |
+
+| Ip_address | VARCHAR , TEXT |
+
+| username | VARCHAR , TEXT | 
+
+| like | INT, TINYINT, VARCHAR, TEXT | 
+
+| visitors | INT, VARCHAR , TEXT | 
+
+| post | VARCHAR , TEXT | 
+
+| comment | VARCHAR , TEXT | 
+
+| newsletter | VARCHAR , TEXT | 
+
+| breaking news | VARCHAR , TEXT | 
+
+| categories | VARCHAR , TEXT |
+
+
+
+
+
+
+
